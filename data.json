@@ -1,0 +1,18 @@
+[
+  {
+    "prodName": "Karma: A Yogi's Guide to Crafting Your Destiny",
+    "prodDescription": "Spirituality, Self-improvement & Self help books by Sadhguru",
+    "prodCategory": "Spirituality",
+    "prodPrice": 150,
+    "prodStock": 10,
+    "prodUrl": "https://images-na.ssl-images-amazon.com/images/I/9167i2ioFaS.jpg"
+  },
+  {
+    "prodName": "Eloquent JavaScript",
+    "prodDescription": "3rd Edition: A Modern Introduction to Programming",
+    "prodCategory": "Education",
+    "prodPrice": 250,
+    "prodStock": 20,
+    "prodUrl": "https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg"
+  }
+]

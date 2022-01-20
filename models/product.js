@@ -1,6 +1,6 @@
 // requiring packages
 // mongoose(object modeling)
-const mongoose = require("mongoose");
+const mongoose = require(`mongoose`);
 
 // product schema
 const productSchema = new mongoose.Schema(
@@ -33,4 +33,5 @@ const productSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-module.exports = mongoose.model("Product", productSchema);
+// exporting to make this importable from else where
+module.exports = mongoose.model(`Product`, productSchema);
